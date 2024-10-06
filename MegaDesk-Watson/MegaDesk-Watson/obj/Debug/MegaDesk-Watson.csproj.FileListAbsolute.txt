@@ -1,0 +1,14 @@
+C:\Users\Grant\Desktop\School\.Net Software Development\Projects\MegaDesk-Watson\MegaDesk-Watson\bin\Debug\MegaDesk-Watson.exe.config
+C:\Users\Grant\Desktop\School\.Net Software Development\Projects\MegaDesk-Watson\MegaDesk-Watson\bin\Debug\MegaDesk-Watson.exe
+C:\Users\Grant\Desktop\School\.Net Software Development\Projects\MegaDesk-Watson\MegaDesk-Watson\bin\Debug\MegaDesk-Watson.pdb
+C:\Users\Grant\Desktop\School\.Net Software Development\Projects\MegaDesk-Watson\MegaDesk-Watson\obj\Debug\MegaDesk-Watson.csproj.AssemblyReference.cache
+C:\Users\Grant\Desktop\School\.Net Software Development\Projects\MegaDesk-Watson\MegaDesk-Watson\obj\Debug\MegaDesk_Watson.AddQuote.resources
+C:\Users\Grant\Desktop\School\.Net Software Development\Projects\MegaDesk-Watson\MegaDesk-Watson\obj\Debug\MegaDesk_Watson.MainMenu.resources
+C:\Users\Grant\Desktop\School\.Net Software Development\Projects\MegaDesk-Watson\MegaDesk-Watson\obj\Debug\MegaDesk_Watson.Properties.Resources.resources
+C:\Users\Grant\Desktop\School\.Net Software Development\Projects\MegaDesk-Watson\MegaDesk-Watson\obj\Debug\MegaDesk-Watson.csproj.GenerateResource.cache
+C:\Users\Grant\Desktop\School\.Net Software Development\Projects\MegaDesk-Watson\MegaDesk-Watson\obj\Debug\MegaDesk-Watson.csproj.CoreCompileInputs.cache
+C:\Users\Grant\Desktop\School\.Net Software Development\Projects\MegaDesk-Watson\MegaDesk-Watson\obj\Debug\MegaDesk-Watson.exe
+C:\Users\Grant\Desktop\School\.Net Software Development\Projects\MegaDesk-Watson\MegaDesk-Watson\obj\Debug\MegaDesk-Watson.pdb
+C:\Users\Grant\Desktop\School\.Net Software Development\Projects\MegaDesk-Watson\MegaDesk-Watson\obj\Debug\MegaDesk_Watson.SearchQuotes.resources
+C:\Users\Grant\Desktop\School\.Net Software Development\Projects\MegaDesk-Watson\MegaDesk-Watson\obj\Debug\MegaDesk_Watson.ViewAllQuotes.resources
+C:\Users\Grant\Desktop\School\.Net Software Development\Projects\MegaDesk-Watson\MegaDesk-Watson\obj\Debug\MegaDesk_Watson.DisplayQuote.resources
